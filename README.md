@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **finer points of React & Node**
 
-- 👨‍💻 All of my projects are available at [mrkobaner.netlify.app](mrkobaner.netlify.app)
-
 - 💬 Ask me about **Javascript,Html, Css, Node,React**
 
 - 📫 How to reach me **mkobaner@gmail.com**
